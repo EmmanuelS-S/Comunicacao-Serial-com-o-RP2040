@@ -309,7 +309,5 @@ int main()
             show_number(led_buffer, n);
             set_one_led(LED_RED, 0, LED_BLUE); // Exibe a cor
         }
-        printf("Hello, world!\n");
-        sleep_ms(1000);
     }
 }
