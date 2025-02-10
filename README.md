@@ -32,7 +32,7 @@ com o microcontrolador RP2040. O objetivo é aplicar conceitos de UART, I2C, con
 
 
 
-[🔗 Link para o vídeo do ensaio (duração máx. de 3 minutos)]()
+[🔗 Link para o vídeo do ensaio (duração máx. de 3 minutos)](https://drive.google.com/file/d/1zjNEiqAOYAcEgrUxBMav3noljQbGEE5J/view?usp=drive_link)
 
 
 Essa atividade proporciona a integração entre conceitos de hardware e software, permitindo a prática de comunicações seriais, controle de dispositivos, 
